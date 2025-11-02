@@ -16,7 +16,7 @@ End-to-end automated testing framework for Apex demo web apps, built with **Play
 
 ### 📹 Test Artifacts
 
-Screenshots, videos, and reports are automatically stored in test-results/.
+Screenshots, videos, and reports are automatically stored in `test-results/`.
 
 These are excluded from version control using .gitignore.
 
