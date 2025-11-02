@@ -1,0 +1,26 @@
+[
+    {
+        "dataSet": "1",
+        "selectValue": "Group 1, option 2",
+        "selectOne": "Dr.",
+        "oldStyleSelectMenu": "Aqua",
+        "multiSelectDropDown": [],
+        "standardMultiSelect": ["Volvo", "Audi"]
+    },
+    {
+        "dataSet": "2",
+        "selectValue": "Group 2, option 1",
+        "selectOne": "Mr.",
+        "oldStyleSelectMenu": "Indigo",
+        "multiSelectDropDown": ["Red", "Green"],
+        "standardMultiSelect": []
+    },
+    {
+        "dataSet": "3",
+        "selectValue": "Group 1, option 1",
+        "selectOne": "Mrs.",
+        "oldStyleSelectMenu": "Magenta",
+        "multiSelectDropDown": ["Blue","Red"],
+        "standardMultiSelect": ["Volvo", "Saab", "Opel", "Audi"]
+    }
+]

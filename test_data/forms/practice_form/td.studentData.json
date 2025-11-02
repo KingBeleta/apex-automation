@@ -1,0 +1,50 @@
+[
+  { 
+    "firstName": "Walter",
+    "lastName": "White",
+    "email": "heisenberg@mail.com",
+    "gender": "Male",
+    "mobile": "1234567890",
+    "dateOfBirth": "7",
+    "monthOfBirth": "September",
+    "yearOfBirth": "1958",
+    "subjects":["Chemistry", "Maths"],
+    "hobbies":["Reading"],
+    "picture": "WalterWhite.jpg",
+    "current_address_textarea": "308 Negra Arroyo Lane, Albuquerque, New Mexico",
+    "state": "NCR",
+    "city": "Delhi"
+  },
+    {
+    "firstName": "Jesse",
+    "lastName": "Pinkman",
+    "email": "jesse@mail.com",
+    "gender": "Male",
+    "mobile": "1234567891",
+    "dateOfBirth": "24",
+    "monthOfBirth": "September",
+    "yearOfBirth": "1984",
+    "subjects":["Arts"],
+    "hobbies":["Music"],
+    "picture": "JessePinkman.jpg",
+    "current_address_textarea": " 322 16th St SW, Albuquerque, NM 87104",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow"
+  },
+    {
+    "firstName": "Skyler",
+    "lastName": "White",
+    "email": "",
+    "gender": "Female",
+    "mobile": "1234567892",
+    "dateOfBirth": "11",
+    "monthOfBirth": "August",
+    "yearOfBirth": "1970",
+     "subjects":[],
+     "hobbies":["Reading", "Music"],
+     "picture": "SkylerWhite.jpg",
+     "current_address_textarea": "",
+    "state": "",
+    "city": ""
+  }
+]

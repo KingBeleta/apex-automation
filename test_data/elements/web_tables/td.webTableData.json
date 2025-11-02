@@ -1,0 +1,30 @@
+[
+{
+        "rowIndex": 1,
+        "updatedFirstName": "Walter",
+        "updatedLastName": "White",
+        "updatedAge": "52",
+        "updatedEmail": "heisenberg@mail.com",
+        "updatedSalary": "99999",
+        "updatedDepartment": "Chemistry"
+    },
+    {
+        "rowIndex": 2,
+        "updatedFirstName": "Jesse",
+        "updatedLastName": "Pinkman",
+        "updatedAge": "25",
+        "updatedEmail": "jesse@mail.com",
+        "updatedSalary": "99999",
+        "updatedDepartment": "Business"
+    },
+    {
+        "rowIndex": 3,
+        "updatedFirstName": "Skyler",
+        "updatedLastName": "White",
+        "updatedAge": "40",
+        "updatedEmail": "sky@mail.com",
+        "updatedSalary": "69",
+        "updatedDepartment": "Management"
+    }
+
+]
